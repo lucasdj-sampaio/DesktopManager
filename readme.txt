@@ -6,7 +6,7 @@ If you need to modify, you will need to obtain a license on the WIN AUTOMATION s
 
 So this software is dedicated to using with a virtual assistent, because is more fast shutdown using your keys, but is pratic asking to Alexa or google assistent and you can do it where you are.
 
---------------------- HOW TO USE THE EXECUTIBLE ---------------------
+--------------------- HOW TO USE THE EXECUTABLE ---------------------
 
 To use automation, you need to download the executable, save the file in any directory. 
 On your TRIGGER CMD, you need to create a new TRIGGER by passing the file path and enabling the parameter option. 
